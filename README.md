@@ -5,10 +5,9 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CExFChoi&layout=compact&langs_count=14&theme=vue-dark" 
       alt="Top Languages Used" />
 </p>
-<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=CExFChoi&theme=vue-dark" /></p>
+<p align="center"><img width="65%" src="https://streak-stats.demolab.com?user=CExFChoi&theme=vue-dark" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CExFChoi&theme=vue-dark"/>
 </p>
-
 <!--
 **CExFChoi/CExFChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
